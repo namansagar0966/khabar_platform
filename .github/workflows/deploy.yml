@@ -29,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: Generate Editions JSON
-        run: node scripts/generate-editions.js
+        run: node scripts/generate-editions.cjs
 
       - name: Build
         run: npm run build
