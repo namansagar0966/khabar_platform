@@ -30,7 +30,7 @@ const Header: React.FC = () => {
         {/* Masthead */}
         <Link to="/" className="inline-block group">
           <img
-            src="./logo.png"
+            src="/logo.png"
             alt={APP_NAME}
             className="h-32 md:h-32 w-auto mx-auto mb-2 object-contain group-hover:scale-105 transition-transform duration-300"
           />
