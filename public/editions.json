@@ -1,0 +1,40 @@
+{
+  "editions": [
+    {
+      "id": "e-1771180200000",
+      "editionNumber": "Vol-16Feb",
+      "title": "Weekly Edition: February 16 - February 22, 2026",
+      "date": "2026-02-15",
+      "pdfUrl": "./pdfs/February-16-2026.pdf",
+      "isLatest": true,
+      "headlines": []
+    },
+    {
+      "id": "e-1770575400000",
+      "editionNumber": "Vol-9Feb",
+      "title": "Weekly Edition: February 9 - February 15, 2026",
+      "date": "2026-02-08",
+      "pdfUrl": "./pdfs/February-9-2026.pdf",
+      "isLatest": false,
+      "headlines": []
+    },
+    {
+      "id": "e-1769970600000",
+      "editionNumber": "Vol-02Feb",
+      "title": "Weekly Edition: February 2 - February 8, 2026",
+      "date": "2026-02-01",
+      "pdfUrl": "./pdfs/February-02-2026.pdf",
+      "isLatest": false,
+      "headlines": []
+    },
+    {
+      "id": "e-1769365800000",
+      "editionNumber": "Vol-26Jan",
+      "title": "Weekly Edition: January 26 - February 1, 2026",
+      "date": "2026-01-25",
+      "pdfUrl": "./pdfs/January-26-2026.pdf",
+      "isLatest": false,
+      "headlines": []
+    }
+  ]
+}

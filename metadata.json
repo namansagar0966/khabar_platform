@@ -1,0 +1,5 @@
+{
+  "name": "Khabar Platform",
+  "description": "A static React-based website for a weekly Hindi newspaper featuring a PDF edition viewer, archive, and news highlights.",
+  "requestFramePermissions": []
+}
