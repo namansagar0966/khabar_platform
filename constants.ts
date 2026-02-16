@@ -1,7 +1,7 @@
 import { Edition } from "./types";
 
 export const APP_NAME = "Khabar Platform";
-export const TAGLINE = "Aapki Awaaz, Aapka Vishwas (Your Voice, Your Trust)";
+export const TAGLINE = "Aapki Awaaz, Aapka Vishwas";
 
 // Fallback data in case editions.json fetch fails (e.g., local file system without server)
 export const FALLBACK_EDITIONS: Edition[] = [
